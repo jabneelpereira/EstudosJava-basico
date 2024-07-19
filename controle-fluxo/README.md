@@ -16,3 +16,10 @@ Em um controle de fluxo condicional, nem sempre nos limitamos ao se (if) e senã
 **- Estruturas condicionais encadeada**
 
 Em um controle de fluxo condicional, nem sempre nos limitamos ao se (if) e senão (else). Uma estrutura de decisão encadeada permite a execução de diferentes blocos de código com base em múltiplas condições.
+
+**- Condição ternária**
+
+O operador ternário é um recurso para tomada de decisões com objetivo similar ao do if/else, mas que é codificado em apenas uma linha.
+
+O operador ternário ancadeado é um recurso para tomada de decisões com
+objetivo similar ao do else if, mas que é codificado em apenas uma linha.
