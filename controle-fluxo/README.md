@@ -23,3 +23,15 @@ O operador ternário é um recurso para tomada de decisões com objetivo similar
 
 O operador ternário ancadeado é um recurso para tomada de decisões com
 objetivo similar ao do else if, mas que é codificado em apenas uma linha.
+
+## Estruturas de Repetição
+
+Laços de repetição, também conhecidos como laços de iteração ou simplesmente loops, são comandos que permitem iteração de código, ou seja, que comandos presentes no bloco sejam repetidos diversas vezes.
+
+Laços ou repetições são representados pelas seguintes estruturas em java:
+
+    For (para);
+
+    While (enquanto);
+
+    Do While (faça enquanto).
