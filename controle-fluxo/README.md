@@ -35,3 +35,15 @@ Laços ou repetições são representados pelas seguintes estruturas em java:
     While (enquanto);
 
     Do While (faça enquanto).
+
+## For
+
+O comando for recebe como entrada uma variável contadora, a condição para continuar a execução e o valor de incrementação. Com ela conseguimos controlar uma plicação e só parar quando nossa expresão de validação for satisfeitas.
+
+#### For Each
+
+O uso do for / each está fortemente relacionado com um cenário onde contenha um array ou coleção, e assim, a interação é baseada nos elementos da coleção. É um caminho usar esse comando em uma refatoração de código.
+
+#### Break e Continue
+
+Break significa quebrar, parar, frear, interromper. E é isso que se faz, quando o Java encontra esse comando pela frente. Continue, como o nome diz, ele 'continua' o laço. O comando break interrompe o laço, já o continue interrompe somente a iteração atual.
