@@ -26,7 +26,7 @@ objetivo similar ao do else if, mas que é codificado em apenas uma linha.
 
 ## Estruturas de Repetição
 
-Laços de repetição, também conhecidos como laços de iteração ou simplesmente loops, são comandos que permitem iteração de código, ou seja, que comandos presentes no bloco sejam repetidos diversas vezes.
+Os laços de repetição, também conhecidos como laços de iteração ou simplesmente loops, são comandos que permitem iteração de código, ou seja, que comandos presentes no bloco sejam repetidos diversas vezes. Aqui busquei compreender bem uma as estruturas de repetições e controle mais usadas na programação.
 
 Laços ou repetições são representados pelas seguintes estruturas em java:
 
